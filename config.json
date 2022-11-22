@@ -1,0 +1,24 @@
+{ 
+
+  "discord": {
+    "token": "MTA0NDM4NjA2MzY1OTA0ODk4MA.GW8KSq.x_7kUTtbHPFFCActWD-O1vkhSN04v-HI2R-KO0",
+    "supportServerURL": "discord.gg/Hyperbolic",
+    "clientID": "1044386063659048980",
+    "serverID": "707814636438683689",
+    "commandRole": "795416437191213107",
+    "qotdPING": "",
+    "managementRole": "795416437191213107"
+  },
+  "channels": {
+    "loggingChannel": "1044398795988938773",
+    
+    "qotdChannel": "1044437892807806976",
+    "suggestionChannel": "803978121057402900",
+    "rulesChannel": "1044395342927507578"
+  },
+  "console": {
+    "maxEventSize": 50000,
+    "debug": true,
+    "debugChannel": "1031366186044235837"
+  }
+}
